@@ -1,0 +1,8 @@
+pyproject.toml
+quantumsafe.py
+setup.cfg
+setup.py
+quantumsafe.egg-info/PKG-INFO
+quantumsafe.egg-info/SOURCES.txt
+quantumsafe.egg-info/dependency_links.txt
+quantumsafe.egg-info/top_level.txt
